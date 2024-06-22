@@ -37,3 +37,6 @@ Other samples:
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+![1043891_10201757229391379_1364497323_n](https://github.com/sphinxlogic/Windows-classic-samples/assets/8218836/7e66bbae-1d46-4ee9-bce5-aca61b8eddb4)
+
